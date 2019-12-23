@@ -28,7 +28,7 @@ const IndexPage = () => (
 						>
 							<div>
 								<Link
-									to="/quick-start/"
+									to="/zh/quick-start/"
 									className="index-get-start-btn"
 								>
 									现在开始
@@ -86,7 +86,7 @@ const IndexPage = () => (
 						>
 							<div>
 								<Link
-									to="/quick-start/"
+									to="/zh/quick-start/"
 									className="index-get-start-btn"
 								>
 									现在开始
