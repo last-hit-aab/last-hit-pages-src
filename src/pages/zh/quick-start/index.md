@@ -100,6 +100,6 @@ Last-Hit提供了一个基于Electron和Puppeteer技术的自动测试IDE工具�
 
 # 学习资源
 
-- [last-hit.com/docs](/docs/) - Last-Hit文档
+- [last-hit.com/docs](/zh/docs/) - Last-Hit文档
 - [electronjs.org/docs](https://electronjs.org/docs) - Electron文档
 - [puppeteer/docs](https://pptr.dev/) - Puppeteer文档
