@@ -1,7 +1,7 @@
 {
 	"name": "last-hit-pages-src",
 	"description": "last-hit pages",
-	"version": "0.8.4",
+	"version": "0.8.5",
 	"author": "last-hit-team",
 	"dependencies": {
 		"gatsby": "^2.18.12",

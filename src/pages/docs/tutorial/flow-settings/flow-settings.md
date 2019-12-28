@@ -23,9 +23,14 @@ When a flow force depends on another flow,
 
 > A login flow might be depended by many flows.
 
-## Soft Dependency
+## Data Dependency
+When a flow data depends on another flow,
+- Can be multiple
+- Not work on IDE, only works on CI
+- On replay, run after another flow
+- Output parameters from another flow will be passed as input parameters as this flow
 
-> **Coming soon.**
+> Create order flow might be depended by query order flow.
 
 # Parameterization
 Parameterization is a very important feature of flow.
