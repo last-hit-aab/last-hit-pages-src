@@ -25,7 +25,7 @@ const Layout = ({ children }) => {
 
 	return (
 		<>
-			<Header siteTitle={data.site.siteMetadata.title} />
+			<Header siteTitle="Last Hit" />
 			<div
 				style={{
 					width: "100%",

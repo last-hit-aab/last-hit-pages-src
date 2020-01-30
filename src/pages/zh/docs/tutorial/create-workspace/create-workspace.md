@@ -37,7 +37,7 @@ author: bradwoo8621
 # 我们需要一个Story
 现在我们已经创建了工作空间，接下来我们需要一个Story。  
 Story在概念上类似测试集合，用于存储一组Flow。  
-现在让我们进入下一步，[创建Story](/zh/tutorial/create-story/)
+现在让我们进入下一步，[创建Story](/zh/tutorial/story-and-flow/)
 
 <div class="doc-page-links">
 	<div>

@@ -1,8 +1,9 @@
 module.exports = {
 	siteMetadata: {
-		title: `Last Hit`,
+		title: `automation testing tool`,
 		description: `First automation testing tool design for all team members.`,
 		author: `@last-hit-team`,
+		siteUrl: `https://www.last-hit.com`,
 	},
 	plugins: [
 		`gatsby-plugin-react-helmet`,
@@ -115,6 +116,7 @@ module.exports = {
 						},
 					},
 					"gatsby-remark-autolink-headers",
+					"gatsby-plugin-advanced-sitemap",
 				],
 			},
 		},

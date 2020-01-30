@@ -37,7 +37,7 @@ Workspace can be removed from list when it's not needed.
 # A Story is Needed
 Now we have the workspace, and a story is needed.  
 Story is just like test suite, to store a set of flows.  
-Let's goto next step, [create a story](/tutorial/create-story/)
+Let's goto next step, [create a story](/tutorial/story-and-flow/)
 
 <div class="doc-page-links">
 	<div>
